@@ -1,0 +1,6 @@
+[submodule "pynder"]
+	path = pynder
+	url = https://github.com/charliewolf/pynder
+[submodule "cleverwrap.py"]
+	path = cleverwrap.py
+	url = https://github.com/edwardslabs/cleverwrap.py
